@@ -213,11 +213,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/xiaomi/santoni/proprietary/framework/rcsimssettings.jar:system/framework/rcsimssettings.jar \
     vendor/xiaomi/santoni/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
-    vendor/xiaomi/santoni/proprietary/hw/fingerprint.msm8937.so:system/hw/fingerprint.msm8937.so \
     vendor/xiaomi/santoni/proprietary/lib/hw/audio.primary.msm8937.so:system/lib/hw/audio.primary.msm8937.so \
     vendor/xiaomi/santoni/proprietary/lib/hw/camera.msm8937.so:system/lib/hw/camera.msm8937.so \
     vendor/xiaomi/santoni/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so \
     vendor/xiaomi/santoni/proprietary/lib/hw/fingerprint.default.so:system/lib/hw/fingerprint.default.so \
+    vendor/xiaomi/santoni/proprietary/lib/hw/fingerprint.msm8937.so:system/hw/fingerprint.msm8937.so \
     vendor/xiaomi/santoni/proprietary/lib/libDiracAPI_SHARED.so:system/lib/libDiracAPI_SHARED.so \
     vendor/xiaomi/santoni/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
     vendor/xiaomi/santoni/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
