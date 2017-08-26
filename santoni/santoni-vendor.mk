@@ -43,6 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/bin/pm-service:system/bin/pm-service \
     vendor/xiaomi/santoni/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/xiaomi/santoni/proprietary/bin/qseecomd:system/bin/qseecomd \
+	vendor/xiaomi/santoni/proprietary/bin/qti:system/bin/qti \
     vendor/xiaomi/santoni/proprietary/bin/radish:system/bin/radish \
     vendor/xiaomi/santoni/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/xiaomi/santoni/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
@@ -1171,5 +1172,7 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     ims \
     imssettings \
+	QtiTelephonyServicelibrary \
     com.qti.location.sdk \
+	qti-telephony-common \
     qcrilhook
