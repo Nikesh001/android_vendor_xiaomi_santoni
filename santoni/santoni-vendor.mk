@@ -43,7 +43,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/bin/pm-service:system/bin/pm-service \
     vendor/xiaomi/santoni/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/xiaomi/santoni/proprietary/bin/qseecomd:system/bin/qseecomd \
-	vendor/xiaomi/santoni/proprietary/bin/qti:system/bin/qti \
+    vendor/xiaomi/santoni/proprietary/bin/qti:system/bin/qti \
     vendor/xiaomi/santoni/proprietary/bin/radish:system/bin/radish \
     vendor/xiaomi/santoni/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/xiaomi/santoni/proprietary/bin/sensors.qcom:system/bin/sensors.qcom \
@@ -218,7 +218,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib/hw/camera.msm8937.so:system/lib/hw/camera.msm8937.so \
     vendor/xiaomi/santoni/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so \
     vendor/xiaomi/santoni/proprietary/lib/hw/fingerprint.default.so:system/lib/hw/fingerprint.default.so \
-    vendor/xiaomi/santoni/proprietary/lib/hw/fingerprint.msm8937.so:system/hw/fingerprint.msm8937.so \
+    vendor/xiaomi/santoni/proprietary/lib/hw/fingerprint.msm8937.so:system/lib/hw/fingerprint.msm8937.so \
     vendor/xiaomi/santoni/proprietary/lib/libDiracAPI_SHARED.so:system/lib/libDiracAPI_SHARED.so \
     vendor/xiaomi/santoni/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
     vendor/xiaomi/santoni/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
