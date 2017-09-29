@@ -219,6 +219,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so \
     vendor/xiaomi/santoni/proprietary/lib/hw/fingerprint.default.so:system/lib/hw/fingerprint.default.so \
     vendor/xiaomi/santoni/proprietary/lib/hw/fingerprint.msm8937.so:system/lib/hw/fingerprint.msm8937.so \
+	vendor/xiaomi/santoni/proprietary/lib/hw/lights.msm8937.so:system/lib/hw/lights.msm8937.so \
     vendor/xiaomi/santoni/proprietary/lib/libDiracAPI_SHARED.so:system/lib/libDiracAPI_SHARED.so \
     vendor/xiaomi/santoni/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
     vendor/xiaomi/santoni/proprietary/lib/libOmxAmrEnc.so:system/lib/libOmxAmrEnc.so \
@@ -252,6 +253,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib64/hw/fingerprint.goodix.so:system/lib64/hw/fingerprint.goodix.so \
     vendor/xiaomi/santoni/proprietary/lib64//hw/fingerprint.msm8937.so:system/lib64/hw/fingerprint.msm8937.so \
     vendor/xiaomi/santoni/proprietary/lib64/hw/consumerir.default.so:system/lib64/hw/consumerir.default.so \
+	vendor/xiaomi/santoni/proprietary/lib64/hw/lights.msm8937.so:system/lib64/hw/lights.msm8937.so \
     vendor/xiaomi/santoni/proprietary/lib64/libOmxAacEnc.so:system/lib64/libOmxAacEnc.so \
     vendor/xiaomi/santoni/proprietary/lib64/libOmxAmrEnc.so:system/lib64/libOmxAmrEnc.so \
     vendor/xiaomi/santoni/proprietary/lib64/libOmxCore.so:system/lib64/libOmxCore.so \
