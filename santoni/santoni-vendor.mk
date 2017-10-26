@@ -227,7 +227,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib/libOmxEvrcEnc.so:system/lib/libOmxEvrcEnc.so \
     vendor/xiaomi/santoni/proprietary/lib/libOmxQcelp13Enc.so:system/lib/libOmxQcelp13Enc.so \
     vendor/xiaomi/santoni/proprietary/lib/libOmxSwVdec.so:system/lib/libOmxSwVdec.so \
-    vendor/xiaomi/santoni/proprietary/lib/libOmxSwVencMpeg4.so:system/lib/libOmxSwVencMpeg4.so \
     vendor/xiaomi/santoni/proprietary/lib/libOmxVdec.so:system/lib/libOmxVdec.so \
     vendor/xiaomi/santoni/proprietary/lib/libOmxVenc.so:system/lib/libOmxVenc.so \
     vendor/xiaomi/santoni/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
@@ -260,7 +259,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib64/libOmxEvrcEnc.so:system/lib64/libOmxEvrcEnc.so \
     vendor/xiaomi/santoni/proprietary/lib64/libOmxQcelp13Enc.so:system/lib64/libOmxQcelp13Enc.so \
     vendor/xiaomi/santoni/proprietary/lib64/libOmxSwVdec.so:system/lib64/libOmxSwVdec.so \
-    vendor/xiaomi/santoni/proprietary/lib64/libOmxSwVencMpeg4.so:system/lib64/libOmxSwVencMpeg4.so \
     vendor/xiaomi/santoni/proprietary/lib64/libOmxVdec.so:system/lib64/libOmxVdec.so \
     vendor/xiaomi/santoni/proprietary/lib64/libOmxVenc.so:system/lib64/libOmxVenc.so \
     vendor/xiaomi/santoni/proprietary/lib64/libOmxVpp.so:system/lib64/libOmxVpp.so \
