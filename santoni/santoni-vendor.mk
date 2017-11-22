@@ -245,7 +245,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib/libstagefright_omx.so:system/lib/libstagefright_omx.so \
     vendor/xiaomi/santoni/proprietary/lib/libstagefright_soft_flacdec.so:system/lib/libstagefright_soft_flacdec.so \
     vendor/xiaomi/santoni/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
-    vendor/xiaomi/santoni/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
     vendor/xiaomi/santoni/proprietary/lib/soundfx/libdirac.so:system/lib/soundfx/libdirac.so \
     vendor/xiaomi/santoni/proprietary/lib64/hw/fingerprint.default.so:system/lib64/hw/fingerprint.default.so \
     vendor/xiaomi/santoni/proprietary/lib64/hw/fingerprint.fpc.so:system/lib64/hw/fingerprint.fpc.so \
