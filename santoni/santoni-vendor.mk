@@ -1102,6 +1102,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libtzdrmgenprov.so:system/vendor/lib64/libtzdrmgenprov.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libulp2.so:system/vendor/lib64/libulp2.so \
+    vendor/xiaomi/santoni/proprietary/vendor/lib64/libuiblur.so:system/vendor/lib64/libuiblur.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libvendorconn.so:system/vendor/lib64/libvendorconn.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libvoice-svc.so:system/vendor/lib64/libvoice-svc.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libwfdavenhancements.so:system/vendor/lib64/libwfdavenhancements.so \
