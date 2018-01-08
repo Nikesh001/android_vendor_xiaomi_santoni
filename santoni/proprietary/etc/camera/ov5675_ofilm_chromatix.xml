@@ -87,7 +87,7 @@ special_mode_mask values:
     <ChromatixName sensor_resolution_index="0" special_mode_mask="0">
       <ISPPreview>ov5675_ofilm_snapshot</ISPPreview>
       <ISPSnapshot>ov5675_ofilm_snapshot</ISPSnapshot>
-      <ISPVideo>ov5675_ofilm_snapshot</ISPVideo>
+      <ISPVideo>ov5675_ofilm_default_video</ISPVideo>
       <CPPPreview>ov5675_ofilm_cpp_preview</CPPPreview>
       <CPPSnapshot>ov5675_ofilm_cpp_snapshot</CPPSnapshot>
       <CPPVideo>ov5675_ofilm_cpp_video</CPPVideo>
@@ -98,7 +98,7 @@ special_mode_mask values:
     <ChromatixName sensor_resolution_index="1" special_mode_mask="0">
       <ISPPreview>ov5675_ofilm_snapshot</ISPPreview>
       <ISPSnapshot>ov5675_ofilm_snapshot</ISPSnapshot>
-      <ISPVideo>ov5675_ofilm_snapshot</ISPVideo>
+      <ISPVideo>ov5675_ofilm_default_video</ISPVideo>
       <CPPPreview>ov5675_ofilm_cpp_preview</CPPPreview>
       <CPPSnapshot>ov5675_ofilm_cpp_snapshot</CPPSnapshot>
       <CPPVideo>ov5675_ofilm_cpp_video</CPPVideo>
