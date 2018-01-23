@@ -464,6 +464,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib/libdiag_system.so:system/lib/libdiag_system.so \
     vendor/xiaomi/santoni/proprietary/lib/libimscamera_jni.so:system/lib/libimscamera_jni.so \
     vendor/xiaomi/santoni/proprietary/lib/libimsmedia_jni.so:system/lib/libimsmedia_jni.so \
+    vendor/xiaomi/santoni/proprietary/lib/libOmxSwVdec.so:system/lib/libOmxSwVdec.so \
+    vendor/xiaomi/santoni/proprietary/lib/libOmxSwVencMpeg4.so:system/lib/libOmxSwVencMpeg4.so \
+    vendor/xiaomi/santoni/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
     vendor/xiaomi/santoni/proprietary/lib/libqct_resampler.so:system/lib/libqct_resampler.so \
     vendor/xiaomi/santoni/proprietary/lib/libqdMetaData.system.so:system/lib/libqdMetaData.system.so \
     vendor/xiaomi/santoni/proprietary/lib/libqmi_cci_system.so:system/lib/libqmi_cci_system.so \
@@ -486,6 +489,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/lib64/libimscamera_jni.so:system/lib64/libimscamera_jni.so \
     vendor/xiaomi/santoni/proprietary/lib64/libimsmedia_jni.so:system/lib64/libimsmedia_jni.so \
     vendor/xiaomi/santoni/proprietary/lib64/liblocationservice_jni.so:system/lib64/liblocationservice_jni.so \
+    vendor/xiaomi/santoni/proprietary/lib64/libOmxVpp.so:system/lib64/libOmxVpp.so \
     vendor/xiaomi/santoni/proprietary/lib64/libqdMetaData.system.so:system/lib64/libqdMetaData.system.so \
     vendor/xiaomi/santoni/proprietary/lib64/libqmi_cci_system.so:system/lib64/libqmi_cci_system.so \
     vendor/xiaomi/santoni/proprietary/lib64/librcc.so:system/lib64/librcc.so \
@@ -599,6 +603,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
+    vendor/xiaomi/santoni/proprietary/vendor/lib/libMpeg4SwEncoder.so:system/vendor/lib/libMpeg4SwEncoder.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libOmxAacDec.so:system/vendor/lib/libOmxAacDec.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libOmxAlacDec.so:system/vendor/lib/libOmxAlacDec.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libOmxAlacDecSw.so:system/vendor/lib/libOmxAlacDecSw.so \
@@ -765,6 +770,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libGPreqcancel.so:system/vendor/lib64/libGPreqcancel.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libGPreqcancel_svc.so:system/vendor/lib64/libGPreqcancel_svc.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libI420colorconvert.so:system/vendor/lib64/libI420colorconvert.so \
+    vendor/xiaomi/santoni/proprietary/vendor/lib64/libMpeg4SwEncoder.so:system/vendor/lib64/libMpeg4SwEncoder.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libOmxAacDec.so:system/vendor/lib64/libOmxAacDec.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libOmxAlacDec.so:system/vendor/lib64/libOmxAlacDec.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libOmxAlacDecSw.so:system/vendor/lib64/libOmxAlacDecSw.so \
