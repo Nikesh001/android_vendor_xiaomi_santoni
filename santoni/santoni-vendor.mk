@@ -508,7 +508,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/xiaomi/santoni/proprietary/vendor/bin/hvdcp_opti:system/vendor/bin/hvdcp_opti \
     vendor/xiaomi/santoni/proprietary/vendor/bin/hw/android.hardware.drm@1.0-service.widevine:system/vendor/bin/hw/android.hardware.drm@1.0-service.widevine \
-    vendor/xiaomi/santoni/proprietary/vendor/bin/hw/rild:system/vendor/bin/hw/rild \
     vendor/xiaomi/santoni/proprietary/vendor/bin/hw/vendor.display.color@1.0-service:system/vendor/bin/hw/vendor.display.color@1.0-service \
     vendor/xiaomi/santoni/proprietary/vendor/bin/hw/vendor.qti.gnss@1.0-service:system/vendor/bin/hw/vendor.qti.gnss@1.0-service \
     vendor/xiaomi/santoni/proprietary/vendor/bin/hw/vendor.qti.hardware.iop@1.0-service:system/vendor/bin/hw/vendor.qti.hardware.iop@1.0-service \
@@ -671,7 +670,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libqti-iopd.so:system/vendor/lib/libqti-iopd.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libqtigef.so:system/vendor/lib/libqtigef.so \
-    vendor/xiaomi/santoni/proprietary/vendor/lib/libril.so:system/vendor/lib/libril.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/librs_adreno.so:system/vendor/lib/librs_adreno.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/librs_adreno_sha1.so:system/vendor/lib/librs_adreno_sha1.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libscalar.so:system/vendor/lib/libscalar.so \
@@ -865,7 +863,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libril-qc-qmi-1.so:system/vendor/lib64/libril-qc-qmi-1.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libril-qc-radioconfig.so:system/vendor/lib64/libril-qc-radioconfig.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libril-qcril-hook-oem.so:system/vendor/lib64/libril-qcril-hook-oem.so \
-    vendor/xiaomi/santoni/proprietary/vendor/lib64/libril.so:system/vendor/lib64/libril.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/librilqmiservices.so:system/vendor/lib64/librilqmiservices.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/librpmb.so:system/vendor/lib64/librpmb.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/librs_adreno.so:system/vendor/lib64/librs_adreno.so \
