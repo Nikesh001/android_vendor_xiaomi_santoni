@@ -55,34 +55,34 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/etc/camera/s5k3l8_mono_chromatix.xml:system/etc/camera/s5k3l8_mono_chromatix.xml \
     vendor/xiaomi/santoni/proprietary/etc/camera/s5k3l8_ofilm_chromatix.xml:system/etc/camera/s5k3l8_ofilm_chromatix.xml \
     vendor/xiaomi/santoni/proprietary/etc/camera/s5k3l8_ofilm_riva_chromatix.xml:system/etc/camera/s5k3l8_ofilm_riva_chromatix.xml \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a330_pm4.fw:system/etc/firmware/a330_pm4.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a420_pm4.fw:system/etc/firmware/a420_pm4.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a530_gpmu.fw2:system/etc/firmware/a530_gpmu.fw2 \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a530_pfp.fw:system/etc/firmware/a530_pfp.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a530_pm4.fw:system/etc/firmware/a530_pm4.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a530v1_pfp.fw:system/etc/firmware/a530v1_pfp.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a530v1_pm4.fw:system/etc/firmware/a530v1_pm4.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a530v2_seq.fw2:system/etc/firmware/a530v2_seq.fw2 \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a530v3_gpmu.fw2:system/etc/firmware/a530v3_gpmu.fw2 \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a530v3_seq.fw2:system/etc/firmware/a530v3_seq.fw2 \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/a540_gpmu.fw2:system/etc/firmware/a540_gpmu.fw2 \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/cpp_firmware_v1_10_0.fw:system/etc/firmware/cpp_firmware_v1_10_0.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/cpp_firmware_v1_12_0.fw:system/etc/firmware/cpp_firmware_v1_12_0.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/cpp_firmware_v1_5_0.fw:system/etc/firmware/cpp_firmware_v1_5_0.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/cpp_firmware_v1_5_2.fw:system/etc/firmware/cpp_firmware_v1_5_2.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/cpp_firmware_v1_6_0.fw:system/etc/firmware/cpp_firmware_v1_6_0.fw \
-    vendor/xiaomi/santoni/proprietary/etc/firmware/cpp_firmware_v1_8_0.fw:system/etc/firmware/cpp_firmware_v1_8_0.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a225_pfp.fw:system/vendor/firmware/a225_pfp.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a225_pm4.fw:system/vendor/firmware/a225_pm4.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a225p5_pm4.fw:system/vendor/firmware/a225p5_pm4.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a300_pfp.fw:system/vendor/firmware/a300_pfp.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a300_pm4.fw:system/vendor/firmware/a300_pm4.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a420_pfp.fw:system/vendor/firmware/a420_pfp.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a420_pm4.fw:system/vendor/firmware/a420_pm4.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a530_gpmu.fw2:system/vendor/firmware/a530_gpmu.fw2 \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a530_pfp.fw:system/vendor/firmware/a530_pfp.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a530_pm4.fw:system/vendor/firmware/a530_pm4.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a530v1_pfp.fw:system/vendor/firmware/a530v1_pfp.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a530v1_pm4.fw:system/vendor/firmware/a530v1_pm4.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a530v2_seq.fw2:system/vendor/firmware/a530v2_seq.fw2 \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a530v3_gpmu.fw2:system/vendor/firmware/a530v3_gpmu.fw2 \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a530v3_seq.fw2:system/vendor/firmware/a530v3_seq.fw2 \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/a540_gpmu.fw2:system/vendor/firmware/a540_gpmu.fw2 \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/cpp_firmware_v1_10_0.fw:system/vendor/firmware/cpp_firmware_v1_10_0.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/cpp_firmware_v1_12_0.fw:system/vendor/firmware/cpp_firmware_v1_12_0.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/cpp_firmware_v1_4_0.fw:system/vendor/firmware/cpp_firmware_v1_4_0.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/cpp_firmware_v1_5_0.fw:system/vendor/firmware/cpp_firmware_v1_5_0.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/cpp_firmware_v1_5_2.fw:system/vendor/firmware/cpp_firmware_v1_5_2.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/cpp_firmware_v1_6_0.fw:system/vendor/firmware/cpp_firmware_v1_6_0.fw \
+    vendor/xiaomi/santoni/proprietary/vendor/firmware/cpp_firmware_v1_8_0.fw:system/vendor/firmware/cpp_firmware_v1_8_0.fw \
     vendor/xiaomi/santoni/proprietary/etc/qdcm_calib_data_hx8394F_HD720p_video_BOE.xml:system/etc/qdcm_calib_data_hx8394F_HD720p_video_BOE.xml \
     vendor/xiaomi/santoni/proprietary/etc/qdcm_calib_data_ili9881c_HD720p_video_Ebbg.xml:system/etc/qdcm_calib_data_ili9881c_HD720p_video_Ebbg.xml \
     vendor/xiaomi/santoni/proprietary/etc/qdcm_calib_data_ili9881c_HD720p_video_EbbgDJN.xml:system/etc/qdcm_calib_data_ili9881c_HD720p_video_EbbgDJN.xml \
