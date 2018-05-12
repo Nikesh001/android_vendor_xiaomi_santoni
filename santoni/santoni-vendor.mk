@@ -16,7 +16,7 @@
 
 PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/vendor/bin/gx_fpd:system/vendor/bin/gx_fpd \
-    vendor/xiaomi/santoni/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
+    vendor/xiaomi/santoni/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
     vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:system/vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
     vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/MTP/MTP_General_cal.acdb:system/vendor/etc/acdbdata/MTP/MTP_General_cal.acdb \
     vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb:system/vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb \
@@ -45,16 +45,16 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Hdmi_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Hdmi_cal.acdb \
     vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Headset_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Headset_cal.acdb \
     vendor/xiaomi/santoni/proprietary/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Speaker_cal.acdb:system/vendor/etc/acdbdata/QRD/msm8952-sku2-snd-card/QRD_SKU2_Speaker_cal.acdb \
-    vendor/xiaomi/santoni/proprietary/etc/camera/camera_config.xml:system/etc/camera/camera_config.xml \
-    vendor/xiaomi/santoni/proprietary/etc/camera/csidtg_camera.xml:system/etc/camera/csidtg_camera.xml \
-    vendor/xiaomi/santoni/proprietary/etc/camera/csidtg_chromatix.xml:system/etc/camera/csidtg_chromatix.xml \
-    vendor/xiaomi/santoni/proprietary/etc/camera/ov5675_d5v15b_chromatix.xml:system/etc/camera/ov5675_d5v15b_chromatix.xml \
-    vendor/xiaomi/santoni/proprietary/etc/camera/ov5675_ofilm_chromatix.xml:system/etc/camera/ov5675_ofilm_chromatix.xml \
-    vendor/xiaomi/santoni/proprietary/etc/camera/s5k3l8_chromatix.xml:system/etc/camera/s5k3l8_chromatix.xml \
-    vendor/xiaomi/santoni/proprietary/etc/camera/s5k3l8_f3l8yam_chromatix.xml:system/etc/camera/s5k3l8_f3l8yam_chromatix.xml \
-    vendor/xiaomi/santoni/proprietary/etc/camera/s5k3l8_mono_chromatix.xml:system/etc/camera/s5k3l8_mono_chromatix.xml \
-    vendor/xiaomi/santoni/proprietary/etc/camera/s5k3l8_ofilm_chromatix.xml:system/etc/camera/s5k3l8_ofilm_chromatix.xml \
-    vendor/xiaomi/santoni/proprietary/etc/camera/s5k3l8_ofilm_riva_chromatix.xml:system/etc/camera/s5k3l8_ofilm_riva_chromatix.xml \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/camera/camera_config.xml:system/vendor/etc/camera/camera_config.xml \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/camera/csidtg_camera.xml:system/vendor/etc/camera/csidtg_camera.xml \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/camera/csidtg_chromatix.xml:system/vendor/etc/camera/csidtg_chromatix.xml \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/camera/ov5675_d5v15b_chromatix.xml:system/vendor/etc/camera/ov5675_d5v15b_chromatix.xml \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/camera/ov5675_ofilm_chromatix.xml:system/vendor/etc/camera/ov5675_ofilm_chromatix.xml \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/camera/s5k3l8_chromatix.xml:system/vendor/etc/camera/s5k3l8_chromatix.xml \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/camera/s5k3l8_f3l8yam_chromatix.xml:system/vendor/etc/camera/s5k3l8_f3l8yam_chromatix.xml \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/camera/s5k3l8_mono_chromatix.xml:system/vendor/etc/camera/s5k3l8_mono_chromatix.xml \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/camera/s5k3l8_ofilm_chromatix.xml:system/vendor/etc/camera/s5k3l8_ofilm_chromatix.xml \
+    vendor/xiaomi/santoni/proprietary/vendor/etc/camera/s5k3l8_ofilm_riva_chromatix.xml:system/vendor/etc/camera/s5k3l8_ofilm_riva_chromatix.xml \
     vendor/xiaomi/santoni/proprietary/vendor/firmware/a225_pfp.fw:system/vendor/firmware/a225_pfp.fw \
     vendor/xiaomi/santoni/proprietary/vendor/firmware/a225_pm4.fw:system/vendor/firmware/a225_pm4.fw \
     vendor/xiaomi/santoni/proprietary/vendor/firmware/a225p5_pm4.fw:system/vendor/firmware/a225p5_pm4.fw \
@@ -97,9 +97,9 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libcom_fingerprints_service.so:system/vendor/lib64/libcom_fingerprints_service.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libfp_client.so:system/vendor/lib64/libfp_client.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib64/libfpservice.so:system/vendor/lib64/libfpservice.so \
-    vendor/xiaomi/santoni/proprietary/lib64/libmm-omxcore.so:system/lib64/libmm-omxcore.so \
-    vendor/xiaomi/santoni/proprietary/lib64/libmorpho_memory_allocator.so:system/lib64/libmorpho_memory_allocator.so \
-    vendor/xiaomi/santoni/proprietary/lib64/libmorpho_panorama.so:system/lib64/libmorpho_panorama.so \
+    vendor/xiaomi/santoni/proprietary/vendor/lib64/libmm-omxcore.so:system/vendor/lib64/libmm-omxcore.so \
+    vendor/xiaomi/santoni/proprietary/vendor/lib64/libmorpho_memory_allocator.so:system/vendor/lib64/libmorpho_memory_allocator.so \
+    vendor/xiaomi/santoni/proprietary/vendor/lib64/libmorpho_panorama.so:system/vendor/lib64/libmorpho_panorama.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libChamomilePA.so:system/vendor/lib/libChamomilePA.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libactuator_ad5816g.so:system/vendor/lib/libactuator_ad5816g.so \
     vendor/xiaomi/santoni/proprietary/vendor/lib/libactuator_ad5823.so:system/vendor/lib/libactuator_ad5823.so \
